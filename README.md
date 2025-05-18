@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gmedulla101
+- 👋 Hi, I’m Great Edoseghe
 - 👀 I’m interested in basketball, economics, philosophy and dogs
 - 🌱 I’m pursuing a career in web development
 - 💞️ I’m looking to collaborate on web projects involving Postgresql, MongoDB, ExpressJS, ReactJS and NodeJS
